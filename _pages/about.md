@@ -18,7 +18,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a fourth-year undergraduate student at Northeastern University(NEU). Before my Ph.D journey, I worked as a research assistant at Hong Kong University of Science and Technology (HKUST) in 2023 and I received B.E. degree at Tongji Univerisity (TJU) advised by Changhong Fu in Jul. 2022.
+I am a fourth-year undergraduate student at Northeastern University(NEU). I have been a research student in AI4CE LAB at New York University(NYU), working with Sihang Li, advised by Prof.Chen Feng.
+
+My research interest lies in the intersection of robotics and computer vision, focusing on enabling intelligent agents to accurately perceive their surrounding environment.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
