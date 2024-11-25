@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle:
 
 profile:
   align: right
@@ -17,4 +17,4 @@ social: true # includes social icons at the bottom of the page
 
 I am a fourth-year undergraduate student at Northeastern University (NEU). I have been a research student in [AI4CE LAB](https://ai4ce.github.io/) at New York University (NYU), working with [Dr. Sihang Li](https://louis-leee.github.io/), advised by [Prof. Chen Feng](https://engineering.nyu.edu/faculty/chen-feng) since May 2024.
 
-My research interest lies in the intersection of robotics and computer vision, focusing on enabling intelligent agents to accurately perceive their surrounding environment.
+My research interest lies in the intersection of robotics and 3D vision, focusing on enabling intelligent agents to accurately perceive their surrounding environment. My research goal is to develop intelligent systems with spatial perception and reasoning capabilities.
