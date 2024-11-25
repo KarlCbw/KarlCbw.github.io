@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: My journey has just begun
+description: My journey has just begun!
 nav: true
 nav_order: 4
 ---
