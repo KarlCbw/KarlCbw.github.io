@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a fourth-year undergraduate student at Northeastern University(NEU). I have been a research student in AI4CE LAB at New York University(NYU), working with Sihang Li, advised by Prof.Chen Feng.
+I am a fourth-year undergraduate student at Northeastern University(NEU). I have been a research student in AI4CE LAB at New York University(NYU), working with [Dr.Sihang Li](https://louis-leee.github.io/), advised by Prof.Chen Feng.
 
 My research interest lies in the intersection of robotics and computer vision, focusing on enabling intelligent agents to accurately perceive their surrounding environment.
 
