@@ -4,7 +4,7 @@ permalink: /repositories/
 title: repositories
 description: My journey has just begun!
 nav: true
-nav_order: 4
+nav_order: 3  
 ---
 
 ## GitHub Repositories
